@@ -223,3 +223,4 @@ class _GeolocalizacaoScreenState extends State<GeolocalizacaoScreen> {
     );
   }
 }
+
